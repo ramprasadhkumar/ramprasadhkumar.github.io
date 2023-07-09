@@ -6,7 +6,6 @@ const fullstack_skills = [
   { skill: "Python" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
-  { skill: "HTML" },
   { skill: "PL/SQL" },
   { skill: "C++" },
   { skill: "HTML" },
